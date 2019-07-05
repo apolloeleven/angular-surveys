@@ -1,5 +1,5 @@
 {
-  "name": "angular-surveys",
+  "name": "ap-angular-surveys",
   "homepage": "https://github.com/mwasiluk/angular-surveys",
   "authors": [
     "Michał Wasiluk"
@@ -32,7 +32,7 @@
     "font-awesome": "4.x",
     "angular-elastic": "2.x",
     "angular-bootstrap": "^1.2.4",
-    "Sortable": "dev"
+    "Sortable": "^1.5.1"
   },
   "devDependencies": {
     "bootstrap-sass": "3.x",
